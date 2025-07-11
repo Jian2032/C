@@ -1,3 +1,0 @@
-D:/Code/c_project/build/CMakeFiles/my_cmake_swap.dir
-D:/Code/c_project/build/CMakeFiles/edit_cache.dir
-D:/Code/c_project/build/CMakeFiles/rebuild_cache.dir
